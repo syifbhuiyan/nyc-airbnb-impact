@@ -30,4 +30,4 @@ The project follows a rigorous data pipeline:
 ## 🚀 How to Run
 1. Clone the repo:
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/nyc-airbnb-impact.git](https://github.com/YOUR_USERNAME/nyc-airbnb-impact.git)
+   git clone [https://github.com/syifbhuiyan/nyc-airbnb-impact.git](https://github.com/syifbhuiyan/nyc-airbnb-impact.git)
