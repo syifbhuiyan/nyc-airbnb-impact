@@ -6,6 +6,7 @@ In the debate over urban housing affordability, "platformization"—the conversi
 Using **Ordinary Least Squares (OLS) regression**, I analyzed the relationship between Airbnb density and Zillow Home Value Index (ZHVI) benchmarks across **164 NYC neighborhoods**.
 
 ## 🔍 Key Findings
+![Regression Graph](results_graph.png)
 * **Statistically Significant Correlation:** The model yielded a P-value of **0.000** ($p < 0.05$), confirming a non-random positive relationship between Airbnb density and housing prices.
 * **The "Premium":** The regression coefficient ($\beta_1$) suggests that **each additional active Airbnb listing** in a neighborhood is associated with a **$585 increase** in average home values.
 * **Predictive Power:** The model explains approximately **9.7%** ($R^2 = 0.097$) of the variance in housing prices, highlighting that while short-term rentals are a significant factor, they function alongside other variables like transit access and historic desirability.
